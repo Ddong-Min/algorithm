@@ -32,3 +32,10 @@ int main(){
         if(i == pow(10,18)) cout << "-1" << endl;
     }
 }
+
+
+/*
+생각해 볼거리
+1. 정답은 항상 prime number임
+
+ */
